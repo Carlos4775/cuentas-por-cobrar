@@ -1,0 +1,51 @@
+﻿@model WebAppCxC.Balance
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<img src="~/Content/chaselogo3.png" style="width:250px;height:150px;">
+
+<div>
+    <h4>Balance</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Fecha_corte)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Fecha_corte)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Antiguedad_promedio_saldos)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Antiguedad_promedio_saldos)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Monto)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Monto)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Cliente.Nombre_cliente)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Cliente.Nombre_cliente)
+        </dd>
+
+    </dl>
+</div>
+<p>
+
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id_balance }) |
+    @Html.ActionLink("Regresar", "Index")
+</p>

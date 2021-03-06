@@ -1,0 +1,315 @@
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\WebAppCxC.dll.config
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\WebAppCxC.dll
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\WebAppCxC.pdb
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\roslyn\csc.exe
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\roslyn\csc.exe.config
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\roslyn\csc.rsp
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\roslyn\csi.exe
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\roslyn\csi.exe.config
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\roslyn\csi.rsp
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\roslyn\System.AppContext.dll
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\roslyn\System.Console.dll
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\roslyn\System.IO.Compression.dll
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\roslyn\System.Security.Claims.dll
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\roslyn\System.ValueTuple.dll
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\roslyn\vbc.exe
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\roslyn\vbc.exe.config
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\roslyn\vbc.rsp
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\Antlr3.Runtime.dll
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\EntityFramework.dll
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\EntityFramework.SqlServer.dll
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\Microsoft.Owin.dll
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\Microsoft.Owin.Security.dll
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\Newtonsoft.Json.dll
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\Owin.dll
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\System.Web.Helpers.dll
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\System.Web.Mvc.dll
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\System.Web.Optimization.dll
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\System.Web.Razor.dll
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\System.Web.WebPages.dll
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\WebGrease.dll
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\System.Web.Helpers.xml
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\System.Web.Mvc.xml
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\System.Web.Optimization.xml
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\System.Web.Razor.xml
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\System.Web.WebPages.xml
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\Newtonsoft.Json.xml
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\Antlr3.Runtime.pdb
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\EntityFramework.xml
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\EntityFramework.SqlServer.xml
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\Microsoft.Owin.xml
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\Microsoft.Owin.Security.xml
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\obj\Debug\WebAppCxC.csprojAssemblyReference.cache
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\obj\Debug\WebAppCxC.csproj.CoreCompileInputs.cache
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\obj\Debug\WebAppCxC.csproj.CopyComplete
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\obj\Debug\WebAppCxC.dll
+C:\Users\Joset\Documents\Visual Studio 2017\Projects\WebAppCxC\WebAppCxC\obj\Debug\WebAppCxC.pdb
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\WebAppCxC.dll.config
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\WebAppCxC.dll
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\WebAppCxC.pdb
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\roslyn\csc.exe
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\roslyn\csc.exe.config
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\roslyn\csc.rsp
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\roslyn\csi.exe
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\roslyn\csi.exe.config
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\roslyn\csi.rsp
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\roslyn\System.AppContext.dll
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\roslyn\System.Console.dll
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\roslyn\System.IO.Compression.dll
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\roslyn\System.Security.Claims.dll
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\roslyn\System.ValueTuple.dll
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\roslyn\vbc.exe
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\roslyn\vbc.exe.config
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\roslyn\vbc.rsp
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\Antlr3.Runtime.dll
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\EntityFramework.dll
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\EntityFramework.SqlServer.dll
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\Microsoft.Owin.dll
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\Microsoft.Owin.Security.dll
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\Newtonsoft.Json.dll
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\Owin.dll
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\System.Web.Helpers.dll
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\System.Web.Mvc.dll
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\System.Web.Optimization.dll
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\System.Web.Razor.dll
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\System.Web.WebPages.dll
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\WebGrease.dll
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\System.Web.Helpers.xml
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\System.Web.Mvc.xml
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\System.Web.Optimization.xml
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\System.Web.Razor.xml
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\System.Web.WebPages.xml
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\Newtonsoft.Json.xml
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\Antlr3.Runtime.pdb
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\EntityFramework.xml
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\EntityFramework.SqlServer.xml
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\Microsoft.Owin.xml
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\Microsoft.Owin.Security.xml
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\obj\Debug\WebAppCxC.csprojAssemblyReference.cache
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\obj\Debug\WebAppCxC.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\obj\Debug\WebAppCxC.csproj.CopyComplete
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\obj\Debug\WebAppCxC.dll
+C:\Users\Carlos\Desktop\WebAppCxC\WebAppCxC\obj\Debug\WebAppCxC.pdb
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\WebAppCxC.dll.config
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\WebAppCxC.dll
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\WebAppCxC.pdb
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\roslyn\csc.exe
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\roslyn\csc.exe.config
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\roslyn\csc.rsp
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\roslyn\csi.exe
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\roslyn\csi.exe.config
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\roslyn\csi.rsp
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\roslyn\System.AppContext.dll
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\roslyn\System.Console.dll
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\roslyn\System.IO.Compression.dll
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\roslyn\System.Security.Claims.dll
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\roslyn\System.ValueTuple.dll
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\roslyn\vbc.exe
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\roslyn\vbc.exe.config
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\roslyn\vbc.rsp
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\Antlr3.Runtime.dll
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\EntityFramework.dll
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\EntityFramework.SqlServer.dll
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\Microsoft.Owin.dll
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\Microsoft.Owin.Security.dll
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\Newtonsoft.Json.dll
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\Owin.dll
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\System.Web.Helpers.dll
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\System.Web.Mvc.dll
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\System.Web.Optimization.dll
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\System.Web.Razor.dll
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\System.Web.WebPages.dll
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\WebGrease.dll
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\System.Web.Helpers.xml
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\System.Web.Mvc.xml
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\System.Web.Optimization.xml
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\System.Web.Razor.xml
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\System.Web.WebPages.xml
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\Newtonsoft.Json.xml
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\Antlr3.Runtime.pdb
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\EntityFramework.xml
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\EntityFramework.SqlServer.xml
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\Microsoft.Owin.xml
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\Microsoft.Owin.Security.xml
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\obj\Debug\WebAppCxC.csprojAssemblyReference.cache
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\obj\Debug\WebAppCxC.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\obj\Debug\WebAppCxC.csproj.CopyComplete
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\obj\Debug\WebAppCxC.dll
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria 2\WebAppCxC\WebAppCxC\obj\Debug\WebAppCxC.pdb
