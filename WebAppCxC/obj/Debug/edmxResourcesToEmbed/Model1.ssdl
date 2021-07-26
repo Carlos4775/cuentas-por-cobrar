@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BaseDatosCxCModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Balances">
+    <Key>
+      <PropertyRef Name="Id_balance" />
+    </Key>
+    <Property Name="Id_balance" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Id_cliente" Type="int" Nullable="false" />
+    <Property Name="Fecha_corte" Type="date" Nullable="false" />
+    <Property Name="Antiguedad_promedio_saldos" Type="int" Nullable="false" />
+    <Property Name="Monto" Type="numeric" Precision="10" Scale="2" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Clientes">
+    <Key>
+      <PropertyRef Name="Id_cliente" />
+    </Key>
+    <Property Name="Id_cliente" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nombre_cliente" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Cedula" Type="varchar" MaxLength="15" Nullable="false" />
+    <Property Name="LimiteCredito" Type="numeric" Precision="10" Scale="2" Nullable="false" />
+    <Property Name="Estado" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Tipo_Documentos">
+    <Key>
+      <PropertyRef Name="Id_tipoDocumento" />
+    </Key>
+    <Property Name="Id_tipoDocumento" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Descripcion" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Cuenta_contable" Type="varchar" MaxLength="35" Nullable="false" />
+    <Property Name="Estado" Type="varchar" MaxLength="12" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Transacciones">
+    <Key>
+      <PropertyRef Name="Id_transaccion" />
+    </Key>
+    <Property Name="Id_transaccion" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Tipo_movimiento" Type="varchar" MaxLength="12" Nullable="false" />
+    <Property Name="Id_tipoDocumento" Type="int" Nullable="false" />
+    <Property Name="Numero_documento" Type="int" Nullable="false" />
+    <Property Name="Fecha" Type="date" Nullable="false" />
+    <Property Name="Id_cliente" Type="int" Nullable="false" />
+    <Property Name="Monto" Type="numeric" Precision="10" Scale="2" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_Balances_Clientes1">
+    <End Role="Clientes" Type="Self.Clientes" Multiplicity="1" />
+    <End Role="Balances" Type="Self.Balances" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Clientes">
+        <PropertyRef Name="Id_cliente" />
+      </Principal>
+      <Dependent Role="Balances">
+        <PropertyRef Name="Id_cliente" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Transacciones_Clientes">
+    <End Role="Clientes" Type="Self.Clientes" Multiplicity="1" />
+    <End Role="Transacciones" Type="Self.Transacciones" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Clientes">
+        <PropertyRef Name="Id_cliente" />
+      </Principal>
+      <Dependent Role="Transacciones">
+        <PropertyRef Name="Id_cliente" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Transacciones_Tipo_Documentos">
+    <End Role="Tipo_Documentos" Type="Self.Tipo_Documentos" Multiplicity="1" />
+    <End Role="Transacciones" Type="Self.Transacciones" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Tipo_Documentos">
+        <PropertyRef Name="Id_tipoDocumento" />
+      </Principal>
+      <Dependent Role="Transacciones">
+        <PropertyRef Name="Id_tipoDocumento" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="BaseDatosCxCModelStoreContainer">
+    <EntitySet Name="Balances" EntityType="Self.Balances" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Clientes" EntityType="Self.Clientes" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Tipo_Documentos" EntityType="Self.Tipo_Documentos" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Transacciones" EntityType="Self.Transacciones" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Balances_Clientes1" Association="Self.FK_Balances_Clientes1">
+      <End Role="Clientes" EntitySet="Clientes" />
+      <End Role="Balances" EntitySet="Balances" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Transacciones_Clientes" Association="Self.FK_Transacciones_Clientes">
+      <End Role="Clientes" EntitySet="Clientes" />
+      <End Role="Transacciones" EntitySet="Transacciones" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Transacciones_Tipo_Documentos" Association="Self.FK_Transacciones_Tipo_Documentos">
+      <End Role="Tipo_Documentos" EntitySet="Tipo_Documentos" />
+      <End Role="Transacciones" EntitySet="Transacciones" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

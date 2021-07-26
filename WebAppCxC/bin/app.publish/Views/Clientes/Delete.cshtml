@@ -1,0 +1,56 @@
+﻿@model WebAppCxC.Clientes
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<img src="~/Content/chaselogo3.png" style="width:250px;height:150px;">
+
+<h3>¿Seguro que desea guardar?</h3>
+<div>
+    <h4>Eliminacion de clientes</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Nombre_cliente)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nombre_cliente)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Cedula)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Cedula)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.LimiteCredito)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LimiteCredito)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Estado)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Estado)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+    <div class="form-actions no-color">
+        <button type="submit" class="btn btn-primary">Eliminar</button>
+        <button type="button" class="btn btn-outline-secondary"> @Html.ActionLink("Regresar", "Index")</button>
+    </div>
+    }
+</div>

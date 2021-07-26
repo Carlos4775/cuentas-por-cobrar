@@ -1,0 +1,43 @@
+﻿@model WebAppCxC.Tipo_Documentos
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<img src="~/Content/chaselogo3.png" style="width:250px;height:150px;">
+
+<div>
+    <h4>Detalle de Documento</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Descripcion)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Descripcion)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Cuenta_contable)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Cuenta_contable)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Estado)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Estado)
+        </dd>
+
+    </dl>
+</div>
+<div class="form-group">
+    <div class="col-md-offset-2 col-md-10 pl-0">
+        <button type="button" class="btn btn-outline-secondary"> @Html.ActionLink("Regresar", "Index")</button>
+    </div>
+</div>

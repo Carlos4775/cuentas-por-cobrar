@@ -1,0 +1,68 @@
+﻿@model WebAppCxC.Transacciones
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<img src="~/Content/chaselogo3.png" style="width:250px;height:150px;">
+
+<div>
+    <h4>Detalles de transacción</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Tipo_movimiento)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Tipo_movimiento)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Numero_documento)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Numero_documento)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Fecha)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Fecha)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Monto)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Monto)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Clientes.Nombre_cliente)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Clientes.Nombre_cliente)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Tipo_Documentos.Descripcion)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Tipo_Documentos.Descripcion)
+        </dd>
+
+    </dl>
+</div>
+<div class="form-group">
+    <div class="col-md-offset-2 col-md-10 pl-0">
+        <button type="submit" class="btn btn-primary">Editar</button>
+        <button type="button" class="btn btn-outline-secondary"> @Html.ActionLink("Regresar", "Index")</button>
+    </div>
+</div>

@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="BaseDatosCxCModelStoreContainer" CdmEntityContainer="BaseDatosCxCEntities1">
+    <EntitySetMapping Name="Balances">
+      <EntityTypeMapping TypeName="BaseDatosCxCModel.Balances">
+        <MappingFragment StoreEntitySet="Balances">
+          <ScalarProperty Name="Id_balance" ColumnName="Id_balance" />
+          <ScalarProperty Name="Id_cliente" ColumnName="Id_cliente" />
+          <ScalarProperty Name="Fecha_corte" ColumnName="Fecha_corte" />
+          <ScalarProperty Name="Antiguedad_promedio_saldos" ColumnName="Antiguedad_promedio_saldos" />
+          <ScalarProperty Name="Monto" ColumnName="Monto" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Clientes">
+      <EntityTypeMapping TypeName="BaseDatosCxCModel.Clientes">
+        <MappingFragment StoreEntitySet="Clientes">
+          <ScalarProperty Name="Id_cliente" ColumnName="Id_cliente" />
+          <ScalarProperty Name="Nombre_cliente" ColumnName="Nombre_cliente" />
+          <ScalarProperty Name="Cedula" ColumnName="Cedula" />
+          <ScalarProperty Name="LimiteCredito" ColumnName="LimiteCredito" />
+          <ScalarProperty Name="Estado" ColumnName="Estado" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tipo_Documentos">
+      <EntityTypeMapping TypeName="BaseDatosCxCModel.Tipo_Documentos">
+        <MappingFragment StoreEntitySet="Tipo_Documentos">
+          <ScalarProperty Name="Id_tipoDocumento" ColumnName="Id_tipoDocumento" />
+          <ScalarProperty Name="Descripcion" ColumnName="Descripcion" />
+          <ScalarProperty Name="Cuenta_contable" ColumnName="Cuenta_contable" />
+          <ScalarProperty Name="Estado" ColumnName="Estado" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Transacciones">
+      <EntityTypeMapping TypeName="BaseDatosCxCModel.Transacciones">
+        <MappingFragment StoreEntitySet="Transacciones">
+          <ScalarProperty Name="Id_transaccion" ColumnName="Id_transaccion" />
+          <ScalarProperty Name="Tipo_movimiento" ColumnName="Tipo_movimiento" />
+          <ScalarProperty Name="Id_tipoDocumento" ColumnName="Id_tipoDocumento" />
+          <ScalarProperty Name="Numero_documento" ColumnName="Numero_documento" />
+          <ScalarProperty Name="Fecha" ColumnName="Fecha" />
+          <ScalarProperty Name="Id_cliente" ColumnName="Id_cliente" />
+          <ScalarProperty Name="Monto" ColumnName="Monto" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
