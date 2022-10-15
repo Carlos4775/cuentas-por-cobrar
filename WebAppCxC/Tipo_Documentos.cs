@@ -11,7 +11,8 @@ namespace WebAppCxC
 {
     using System;
     using System.Collections.Generic;
-    
+    using System.ComponentModel.DataAnnotations;
+
     public partial class Tipo_Documentos
     {
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
@@ -19,9 +20,12 @@ namespace WebAppCxC
         {
             this.Transacciones = new HashSet<Transacciones>();
         }
-    
+
+        [Display(Name = "Tipo de documento")]
         public int Id_tipoDocumento { get; set; }
+        [Display(Name = "Descripción")]
         public string Descripcion { get; set; }
+        [Display(Name = "Cuenta contable")]
         public string Cuenta_contable { get; set; }
         public string Estado { get; set; }
     

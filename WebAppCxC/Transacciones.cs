@@ -9,16 +9,19 @@
 
 namespace WebAppCxC
 {
-    using System;
-    using System.Collections.Generic;
-    
+    using System.ComponentModel.DataAnnotations;
+
     public partial class Transacciones
     {
         public int Id_transaccion { get; set; }
+        [Display(Name = "Tipo de movimiento")]
         public string Tipo_movimiento { get; set; }
+        [Display(Name = "Tipo de documento")]
         public int Id_tipoDocumento { get; set; }
+        [Display(Name = "No. documento")]
         public int Numero_documento { get; set; }
         public System.DateTime Fecha { get; set; }
+        [Display(Name = "No. Identificación")]
         public int Id_cliente { get; set; }
         public decimal Monto { get; set; }
     

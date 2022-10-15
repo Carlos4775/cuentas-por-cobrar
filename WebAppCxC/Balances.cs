@@ -11,12 +11,17 @@ namespace WebAppCxC
 {
     using System;
     using System.Collections.Generic;
-    
+    using System.ComponentModel.DataAnnotations;
+
     public partial class Balances
     {
+        [Display(Name = "No. Balance")]
         public int Id_balance { get; set; }
+        [Display(Name = "No. Identificación")]
         public int Id_cliente { get; set; }
+        [Display(Name = "Fecha de corte")]
         public System.DateTime Fecha_corte { get; set; }
+        [Display(Name = "Antigüedad promedio de saldos")]
         public int Antiguedad_promedio_saldos { get; set; }
         public decimal Monto { get; set; }
     

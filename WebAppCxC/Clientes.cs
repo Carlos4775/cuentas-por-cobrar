@@ -9,9 +9,9 @@
 
 namespace WebAppCxC
 {
-    using System;
     using System.Collections.Generic;
-    
+    using System.ComponentModel.DataAnnotations;
+
     public partial class Clientes
     {
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
@@ -20,11 +20,16 @@ namespace WebAppCxC
             this.Balances = new HashSet<Balances>();
             this.Transacciones = new HashSet<Transacciones>();
         }
-    
+
+        [Display(Name = "No. Identificación")]
         public int Id_cliente { get; set; }
+        [Display(Name = "Nombre")]
         public string Nombre_cliente { get; set; }
+        [Display(Name = "No. Identificación")]
         public string Cedula { get; set; }
+        [Display(Name = "Límite de crédito")]
         public decimal LimiteCredito { get; set; }
+        [Display(Name = "Estado")]
         public bool Estado { get; set; }
     
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
