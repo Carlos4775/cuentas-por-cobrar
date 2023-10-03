@@ -1,0 +1,44 @@
+# Visual Studio generated files and folders
+.vscode/
+.idea/
+
+# Rider generated files and folders
+.idea_rider/
+
+# Visual Studio generated files and folders
+.vs/
+
+# Rider generated files and folders
+.idea/
+.idea_rider/
+.idea_v*.ipr
+.idea_v*.iws
+.idea_v*.iml
+.idea_v*.ise
+
+# Compiled output
+bin/
+obj/
+
+# .NET and .NET Core generated folders and files
+*.user
+*.vscode
+.vscode
+.vs
+*_i.c
+*_p.c
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider generated files and folders
+.idea_rider/
+.idea_v*.ipr
+.idea_v*.iws
+.idea_v*.iml
+
+# Visual Studio Code generated folders
+.vscode/
+.vscode-test/
+.history/
