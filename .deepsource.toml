@@ -1,0 +1,47 @@
+version = 1
+
+[analysis]
+
+[analysis.clones]
+enable = true
+
+[analysis.copy-paste]
+enable = true
+
+[analysis.goals]
+enable = true
+
+[analysis.security]
+enable = true
+
+[analysis.bug-risks]
+enable = true
+
+[analysis.dead-code]
+enable = true
+
+[analysis.error-prone]
+enable = true
+
+[analysis.complexity]
+enable = true
+
+[analysis.performance]
+enable = true
+
+[analysis.tests]
+enable = true
+
+[analyzer]
+
+[analyzer.blacklist]
+enable = true
+
+[analyzer.outdated-dependencies]
+enable = true
+
+[analyzer.dependabot]
+enable = true
+
+[analyzer.test-coverage]
+enable = true
